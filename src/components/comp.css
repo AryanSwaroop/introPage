@@ -1,0 +1,366 @@
+
+.nav-bar {
+    height: 0.2%;
+    width: 100%;
+    background-color: aliceblue;
+ }
+
+.signUpButton {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    position: absolute;
+    height: 1.8rem;
+    width: 8%;
+    border: solid;
+    border-radius: 0.7rem;
+    background-color: black;
+    margin-left : 90%;
+    margin-top: 2%;
+    border-color: aliceblue;
+    padding-top: 0.5%;
+    margin-right: 1%;
+    box-shadow: 2px 4px white;
+}
+
+.flex-text {
+    margin-top: 5%;
+    text-align: center;
+    color: aliceblue;
+    font-size:200% ;
+    font-family: 'Inter', sans-serif;
+}
+
+.flex-row {
+    margin-top: 2%;
+    width: 40%;
+    margin-left: 40%;
+    font-size: 300%;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+
+
+
+
+.logo {
+    position:relative;
+    height: 9%;
+    width: 4%;
+    margin-top: 2%;
+    margin-right: 90%;
+    border: solid;
+    border-radius: 100%;
+    border-color: #f4f4f4;
+    box-shadow: 2px 4px black;
+}
+
+.profileDiv {
+    z-index: +1;
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+    border: solid;
+    border-radius: 5%;
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-left: 70%;
+    height: 60%;
+    width: 20%;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.AryanPhoto {
+    margin-top: 10%;
+    height: 37%;
+    width: 55%;
+    border: solid;
+    border-radius: 100%;
+}
+
+.blueTick {
+    height: 7%;
+    width: 7%;
+    margin-right: 0;
+    margin-left: 20%;
+    padding: 0;
+    border-width: 0px;
+
+
+}
+
+.stackNames {
+    margin-right: 20%;
+    margin-bottom: 4%;
+    line-height: 4%;
+    font-size: 20px;
+}
+
+.about {
+    margin-top: 5%;
+    position: relative;
+    height: 40%;
+    width: 100%;
+    background-color: black ;
+    color: black;
+
+    
+    
+    
+  
+    
+}
+/*****************<p style={{fontSize:"150%"}}>Well, this is the least important part of this page but any way just as a formality.
+          I am not a rookie , not the best out there but am certainly one that will get your work done.
+          I am up for any task from Ecommerce to static pages. Right now , I am studying at <em>Delhi Technological 
+          University(Formely DCE)</em>. Below,I have listed my previous work so, please take a look.</p>***********/
+.aboutText {
+    font-family: 'Inter', sans-serif;
+    
+    width: 100%;
+    background-color: black;
+    color: black;
+    
+}
+
+.AboutPara {
+    margin-bottom: 0;
+    line-height: 0;
+    animation: color-change 6s infinite;
+    font-size :450%;
+  
+    font-family: 'Inter', sans-serif;
+    
+
+}
+
+@keyframes color-change {
+    0% { color: #d95302; }
+    50% { color: #03aa24; }
+    80% {color: #6242ea;}
+    100% { color: #ff0089; }
+    
+  }
+
+/*****************************************************ProjectDiv*******************************************************/
+
+.projectDiv {
+    height: 800px;
+    background-color:black;
+    font-family: 'Inter', sans-serif;
+}
+
+.flex-container {
+    display: flex;
+    height: 80%;
+    flex-direction: row;
+
+}
+
+
+
+.transpDiv1 {
+    padding-top: 2cqh;
+    color: black;
+    border-radius: 2rem;
+    border: solid;
+    border-color:dodgerblue ;
+    height: 40%;
+    width: 20%;
+    background-color: dodgerblue;
+    position: absolute;
+    margin-left: 15%;
+    opacity: 0.5;
+    text-align: left;
+    padding-left: 10%;
+    
+}
+
+.transpDiv2 {
+    border: solid;
+    border-radius: 20%;
+    border-color:yellowgreen ;
+    opacity: 0.5;
+    height: 20%;
+    width: 10%;
+    background-color: yellowgreen;
+    position: relative;
+    margin-left: 10%;
+    margin-top: 13%;
+
+    
+    
+}
+
+.SampleDiv {
+    height: 10%;
+}
+
+.SamplePhoto {
+    margin-bottom: 10%;
+    height: 650%;
+    width: 50%;
+    border: solid;
+    border-radius: 1rem;
+}
+
+.nonSamplePhoto {
+    margin-bottom: 10%;
+    height: 750%;
+    width: 70%;
+    border: solid;
+    border-radius: 1rem;
+   
+}
+
+.ContactsData {
+    
+    text-align: left;
+    
+}
+
+a { color:black } /* Globally */
+
+/* Each state */
+
+a:visited { text-decoration: none; color:black; }
+a:hover { text-decoration: none; color:blue; }
+a:focus { text-decoration: none; color:yellow; }
+a:hover, a:active { text-decoration: none; color:black }
+
+/************************************footer***************************************************************/
+
+.footer {
+    
+    font-family: 'Inter', sans-serif;
+    font-size: 2.3rem;;
+    animation: color-change 6s infinite;
+    background-color: black;
+    height: 7%;
+    text-align: right;
+    margin-right: 8%;
+
+}
+@keyframes color-change {
+    0% { color: #d95302; }
+    50% { color: #03aa24; }
+    80% {color: #6242ea;}
+    100% { color: #ff0089; }
+    
+  }
+.flex-item {
+    
+    margin-top: 5%;
+    height: 50%;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    
+   
+}
+
+.flex-data {
+    margin-bottom: 5%;
+    
+    font-size: large;
+    color: aliceblue;
+
+}
+
+.flex-paragraph {
+    
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    
+}
+
+/**************************Media Query********************************************/
+
+@media  (max-width : 600px) {
+    .logo{
+        width: 10%;
+        margin-top: 4%;
+        margin-left: 6%;
+        margin-bottom: 4%;
+        
+        
+        
+    }
+
+    .about {
+        font-size: 50%;
+    }
+
+    .flex-text {
+        font-size: 250%;
+    }
+
+   .footer {
+    margin-left: 7%;
+       text-align: center;
+       margin-top: 15%;
+       font-size: 70%;
+       
+       
+   }
+
+   .flex-row .InstaLogo  {
+    height: 60%;
+
+   }
+   .flex-row.fa-brands {
+    height: 20%;
+   }
+   .flex-row {
+    font-size: 50px;
+    margin-top: 20%;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 30%;
+   }
+
+   .signUpButton {
+    margin-top: 4%;
+    margin-left: 20%;
+    width: 75%;
+
+   }
+   
+   .flex-container{
+    flex-direction: column;
+    position:relative;
+    margin-bottom: 40%;
+    
+   }
+
+   .flex-item {
+    text-align: center;
+   }
+
+   .SamplePhoto {
+    z-index: +10;
+    margin-bottom: 10%;
+    height: 67%;
+    width: 150%;
+    margin-left: 20%;
+   }
+
+   .SampleDiv {
+
+    height: 200px;
+    width: 200px;
+   }
+
+
+   
+   
+
+   
+
+   
+}
