@@ -12,7 +12,7 @@ export default function ProjectPage(){
                    
                         <div className="flex-item">
                         <div className="container">                        
-                        <Sample source= "ecommerce.png" alt="ecomerce"  title="Ecommerce"/>
+                        <Sample source= "ecommerce.png" alt="ecomerce"  title="Ecommerce" link="https://frontend-portfolio-aryan.vercel.app/"/>
 
                         <Sample source= "notes.png" alt="notes" title="Notes"/>
                         </div>
