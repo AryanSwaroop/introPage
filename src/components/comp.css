@@ -285,7 +285,7 @@ a:hover, a:active { text-decoration: none; color:black }
         width: 6.5%;
         
         margin-left: 2%;
-        margin-top: 5%;
+        margin-top: 15px;
         
         margin-bottom: 4%;
         
@@ -327,7 +327,7 @@ a:hover, a:active { text-decoration: none; color:black }
    }
 
    .signUpButton {
-    margin-top: 4%;
+    margin-top: 15px;
     margin-left: 12%;
     width: 80%;
 
