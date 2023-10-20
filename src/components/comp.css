@@ -282,7 +282,7 @@ a:hover, a:active { text-decoration: none; color:black }
 
 @media  (max-width : 600px) {
     .logo{
-        width: 6.8%;
+        width: 6.5%;
         
         margin-left: 2%;
         margin-top: 5%;
