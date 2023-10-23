@@ -14,7 +14,7 @@ export default function ProjectPage(){
                         <div className="container">                        
                         <Sample source= "ecommerce.png" alt="ecomerce"  title="Ecommerce" link="https://frontend-portfolio-aryan.vercel.app/"/>
 
-                        <Sample source= "notes.png" alt="notes" title="Notes"/>
+                        <Sample source= "notes.png" alt="notes" title="Notes" link="https://rt8que.csb.app/"/>
                         </div>
                         </div>
                             
