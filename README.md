@@ -13,5 +13,5 @@ A simple react page for my projects and other stuff.
 <img width="282" alt="Screenshot 2023-10-23 192624" src="https://github.com/AryanSwaroop/introPage/assets/113257605/87d1766d-34ba-4e75-a2e3-b87bfd681921">
 
 # Projects it Contains:-
-* Simple Product Display and Selling Gallery
-* Simple Notes app for saving notes
+* Product Display and Selling Gallery
+* Notes app for saving notes
